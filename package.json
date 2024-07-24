@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "nodemon": "^3.1.4"
+  },
+  "name": "nodejs-web209",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --experimental-specifier-resolution=node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "group7-ass2-web209"
+  ],
+  "author": "",
+  "license": "MIT",
+  "description": ""
+}
